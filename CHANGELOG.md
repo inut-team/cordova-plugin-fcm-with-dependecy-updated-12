@@ -2,6 +2,10 @@
 
 ## Version 7
 
+### Version 7.8.1 (01/12/2022)
+
+- Exported flag for Android 12.
+
 ### Version 7.8.0 (03/02/2020)
 
 - IOS_FIREBASE_MESSAGING_VERSION upgraded to 7.4.0;
