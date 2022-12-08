@@ -1,7 +1,12 @@
 # Changelog
 
 ## Version 7
+### Version 7.8.3 (01/12/2022)
 
+- Renamed cordova plugin podspec. 
+### Version 7.8.2 (01/12/2022)
+
+- Revert www/FC;Plugin.js to pre-build state. 
 ### Version 7.8.1 (01/12/2022)
 
 - Exported flag for Android 12.
